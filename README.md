@@ -78,7 +78,7 @@ Each project is self-contained, runnable, and documented with what it does, how 
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/ai-engineering-projects.git
+git clone https://github.com/MaherovicOG/ai-engineer-roadmap.git
 cd ai-engineering-projects
 
 # Create and activate a virtual environment
